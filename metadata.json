@@ -1,0 +1,5 @@
+{
+  "name": "Abdulrahman Al-Jabri",
+  "description": "An AI-powered photo editing application that uses Gemini to generate professional product shots. Upload a product photo, select style parameters, optionally add a style reference, and generate a new, enhanced image based on a dynamically created prompt.",
+  "requestFramePermissions": []
+}
